@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="Yordany Pérez Valdez - Analista de Datos Junior" />
+  <img src="github-banner.png" width="100%" alt="Yordany Pérez Valdez - Analista de Datos Junior" />
 </p>
 
 # 👋 Hola, soy Yordany Pérez Valdez
