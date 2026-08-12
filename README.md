@@ -31,9 +31,8 @@ Convierto datos en decisiones: análisis exploratorio, limpieza de datos, dashbo
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| [**powerbi-dashboards**](https://github.com/yordanypp/powerbi-dashboards) | Dashboards de negocio: mercado laboral con 2M+ registros y reporte de ventas con volumen superior a $3.7B | Power BI · Excel |
-| [**analisis-modelos**](https://github.com/yordanypp/analisis-modelos) | Modelos estadísticos, econométricos y ML: ARIMA, regresión, fraude, Spark, Redatam | R · Python · PySpark |
-| [**siniestralidad-vial-rd-eda**](https://github.com/yordanypp/siniestralidad-vial-rd-eda) | EDA sobre accidentes de tránsito en República Dominicana (datos gubernamentales) | Python · R |
+| [**powerbi-dashboards**](https://github.com/yordanypp/powerbi-dashboards) | Dashboards del mercado laboral dominicano: 2M+ trabajadores, mapas geoespaciales y KPIs | Power BI · DAX · Excel |
+| [**analisis-modelos**](https://github.com/yordanypp/analisis-modelos) | Modelos econométricos (ARIMA, Banco Agrícola), ML (fraude, regresión) y Big Data (Spark, Redatam) | R · Python · PySpark |
 
 ---
 
