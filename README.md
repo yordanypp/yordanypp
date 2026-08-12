@@ -31,8 +31,8 @@ Convierto datos en decisiones: análisis exploratorio, limpieza de datos, dashbo
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| [**hipotiroidismo-ml-classification**](https://github.com/yordanypp/hipotiroidismo-ml-classification) | Modelo ML para detectar riesgo de hipotiroidismo sobre datos clínicos oficiales NHANES (tesis de grado) | Python · R · scikit-learn |
 | [**powerbi-dashboards**](https://github.com/yordanypp/powerbi-dashboards) | Dashboards de negocio: mercado laboral con 2M+ registros y reporte de ventas con volumen superior a $3.7B | Power BI · Excel |
+| [**analisis-modelos**](https://github.com/yordanypp/analisis-modelos) | Modelos estadísticos, econométricos y ML: ARIMA, regresión, fraude, Spark, Redatam | R · Python · PySpark |
 | [**siniestralidad-vial-rd-eda**](https://github.com/yordanypp/siniestralidad-vial-rd-eda) | EDA sobre accidentes de tránsito en República Dominicana (datos gubernamentales) | Python · R |
 
 ---
